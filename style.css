@@ -1,0 +1,65 @@
+body {
+    text-align: center;
+    background-color:lightcyan;
+}
+#head {
+    font-size: 50px;
+    color: crimson;
+    font-family: 'Grandstander', cursive;
+    text-decoration: underline;
+    text-decoration-color: orchid;
+}
+.line {
+    height: 8px;
+    background-color:black;
+    width: 100px;
+    margin: 8px auto;
+}
+#jkrowling {
+   border-style: solid;
+    border-color:springgreen;
+    border-width: 5px; 
+}
+#harry {
+    border-style: solid;
+    border-color:springgreen;
+    border-width: 5px;
+}
+#hp1 {
+    border-style: solid;
+    border-color:deeppink;
+    border-width: 5px;
+}
+#hp2 {
+    border-style: solid;
+    border-color:blue;
+    border-width: 5px;
+}
+#hp3 {
+    border-style: solid;
+    border-color:forestgreen;
+    border-width: 5px;
+}
+#hp4 {
+    border-style: solid;
+    border-color:red;
+    border-width: 5px;
+}
+#hp5 {
+    border-style: solid;
+    border-color:yellow;
+    border-width: 5px;
+}
+#hp6 {
+    border-style: solid;
+    border-color:lightpink;
+    border-width: 5px;
+}
+#h1 {
+   color:aqua;
+    font-size: 35px;
+    border-style: solid;
+    border-color:blue;
+    border-width: 5px;
+    background-color: blue;
+}
